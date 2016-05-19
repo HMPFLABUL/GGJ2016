@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 639da19a607dac54496f6f4df09b4264
+timeCreated: 1454134314
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero_0
+    21300002: Hero_1
+    21300004: Hero_2
+    21300006: Hero_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hero_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 66
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 32}
+        - {x: -26.5, y: 26}
+        - {x: -26.5, y: -24}
+        - {x: -25.5, y: -32}
+        - {x: 26.5, y: -32}
+        - {x: 26.5, y: 13}
+        - {x: 1.5, y: 32}
+    - name: Hero_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 9}
+        - {x: 1.5, y: 32}
+        - {x: -18.5, y: 32}
+        - {x: -27.5, y: 18}
+        - {x: -27.5, y: -25}
+        - {x: -26.5, y: -32}
+        - {x: 9.5, y: -32}
+        - {x: 25.5, y: -29}
+        - {x: 27.5, y: -26}
+        - {x: 27.5, y: -4}
+    - name: Hero_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 32}
+        - {x: -8.5, y: 32}
+        - {x: -26.5, y: 10}
+        - {x: -26.5, y: -32}
+        - {x: 26.5, y: -32}
+        - {x: 26.5, y: 19}
+        - {x: 21.5, y: 31}
+    - name: Hero_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 32}
+        - {x: -7.5, y: 32}
+        - {x: -25.5, y: 2}
+        - {x: -26.5, y: -3}
+        - {x: -26.5, y: -27}
+        - {x: -12.5, y: -32}
+        - {x: 26.5, y: -32}
+        - {x: 26.5, y: 18}
+        - {x: 21.5, y: 31}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
